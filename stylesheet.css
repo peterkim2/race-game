@@ -25,6 +25,10 @@ body {
    margin: 0 auto;
    font-size: 50px;
 }
+#speedSelection {
+   text-align: center;
+   margin: 0 auto;
+}
 .button {
    border: 1px solid #0a3c59;
    background: #3e779d;
